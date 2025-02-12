@@ -1,4 +1,4 @@
-#Polecane linki:
+# Polecane linki:
 
 ## 1. Onboarding using Microsoft Intune
 https://learn.microsoft.com/en-us/defender-endpoint/onboarding-endpoint-manager?view=o365-worldwide
@@ -14,7 +14,6 @@ https://github.com/microsoft/Intune-Config-Frameworks
 
 ## 5. Microsoft Graph - PowerShell Intune samples
 https://github.com/microsoftgraph/powershell-intune-samples 
-![image](https://github.com/user-attachments/assets/ec5cf9c1-de1c-4eb1-8a3a-b55860d5ead0)
 
 ## 6. MD-102: Microsoft 365 Endpoint Administrator
 https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator/tree/master
@@ -30,7 +29,6 @@ https://wintuner.app/
 
 ## 10. Intune AI Voice Bot
 https://jannikreinhard.com/2023/04/23/intune-ai-voice-bot/ 
-![image](https://github.com/user-attachments/assets/9cc2c298-c4a6-4642-9b25-19bd5e47755d)
 
 ## 11. How to Deploy Windows 11 Using Intune Autopilot – Full Guide
 https://liam-robinson.co.uk/how-to-deploy-windows-11-using-intune-autopilot-full-guide/
@@ -46,4 +44,3 @@ https://jeffreyappel.nl/managing-microsoft-defender-for-endpoint-with-the-new-se
 
 ## 15. Not The Hidden Wiki
 https://github.com/notthehiddenwiki/NTHW 
-![image](https://github.com/user-attachments/assets/1f45c1e2-beaf-470f-b799-07f8e0cceb7b)
