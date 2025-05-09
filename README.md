@@ -56,52 +56,55 @@
     PytechSummit2024, 10.12.2024
 4.	**Bazinga - czyli krótka historia o bezpieczeństwie AI**
 
-    Microsoft Azure User Group Poland 04.12.2024 Rzeszów
+    Microsoft Azure User Group Poland Rzeszów, 04.12.2024
 5.	**Microsoft Copilot w służbie Jej Królewskiej Wysokości Socjotechniki?**
+   
     WGUiSW, 03.12.2024 r.
-6.	**Azure OpenAI and Computer Vision: Transforming Beekeeping by Enhancing Disease Detection in Bees**
+7.	**Azure OpenAI and Computer Vision: Transforming Beekeeping by Enhancing Disease Detection in Bees**
     
     Data Science Summit 2024, 21.11.2024
-7.	**Creating Custom AI Copilots Leveraging Azure OpenAI for Tailored Solutions**
+8.	**Creating Custom AI Copilots Leveraging Azure OpenAI for Tailored Solutions**
 
     Expert Summit 2024(online), 07.11.2024
-8.	**Hejt w sieci i OSINT - jak przeciwdziałać cyberprzemocy**
+9.	**Hejt w sieci i OSINT - jak przeciwdziałać cyberprzemocy**
 
     ITSec4You WSB-NLU University (online), 21.10.2024
-9.	**Introduction to Microsoft Copilot for Security**
+10.	**Introduction to Microsoft Copilot for Security**
     
     Microsoft Community Łódź, 10.10.2024
-10.	**Creating Custom AI Copilots Leveraging Azure OpenAI for Tailored Solutions**
+11.	**Creating Custom AI Copilots Leveraging Azure OpenAI for Tailored Solutions**
 
     DataAIConf, 24.09.2024
-11.	**Does creating your own Azure OpenAI solutions still make sense in the era of Copilots**
+12.	**Does creating your own Azure OpenAI solutions still make sense in the era of Copilots**
+    
     Women Techstyle Summit 2024 (online) Autumn Edition, 19.09.2024
-12.	**Use FileVault disk encryption for macOS with Intune**
+14.	**Use FileVault disk encryption for macOS with Intune**
     
     11th meeting of AppleCommunity.pl, 17.09.2024
-13.	**Socjotechnika w cyberatakach — na co uważać i jak się bronić?**
+15.	**Socjotechnika w cyberatakach — na co uważać i jak się bronić?**
     
     Konferencja PSYCHOLOGIA CYBERPRZESTRZENI, 01.09.2024
-14.	**Microsoft Copilot for Security - dobry, zły i brzydki**
+16.	**Microsoft Copilot for Security - dobry, zły i brzydki**
     
-    BSides Warsaw 2024 - 14.07.2024
-15.	**Azure OpenAI Security - Best Practice on using Azure OpenAI Service**
-    BSides Warsaw 2024 - 13.07.2024
-16.	**Introduction to GitHub Copilot**
+    BSides Warsaw 2024, 14.07.2024
+17.	**Azure OpenAI Security - Best Practice on using Azure OpenAI Service**
+
+   	BSides Warsaw 2024, 13.07.2024
+19.	**Introduction to GitHub Copilot**
     
     Lublin Ms, 10.07.2024
-17.	**Get started with Azure OpenAI in .NET**
+20.	**Get started with Azure OpenAI in .NET**
     
     bstok.ms, 26.06.2024
-18.	**Unveiling the Power of Defender for Endpoint for macOS New Features and Public Preview**
+21.	**Unveiling the Power of Defender for Endpoint for macOS New Features and Public Preview**
     
     9th meeting of AppleCommunity.pl, 21.05.2024
-19.	Odkryj Moc Azure OpenAI Service!
+22.	**Odkryj Moc Azure OpenAI Service!**
     
     Asseco DS, 07.05.2024
-20.	**Wprowadzenie do Microsoft Copilot for Security**
+23.	**Wprowadzenie do Microsoft Copilot for Security**
     
     Asseco DS, 11.04.2024
-21.	**ChatGPT/OpenAI - Opening a Pandora's box?**
+24.	**ChatGPT/OpenAI - Opening a Pandora's box?**
     
     Cloud Summit 2023, 23.05.2023
