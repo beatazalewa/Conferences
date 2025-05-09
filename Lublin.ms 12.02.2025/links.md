@@ -1,46 +1,34 @@
-# Polecane linki:
+# Links
 
-### 1. Onboarding using Microsoft Intune
-https://learn.microsoft.com/en-us/defender-endpoint/onboarding-endpoint-manager?view=o365-worldwide
+## Microsoft Intune
+-----
 
-### 2. Enrollment guide: Enroll Windows client devices in Microsoft Intune
-https://learn.microsoft.com/en-us/mem/intune/fundamentals/deployment-guide-enrollment-windows
+1. Onboarding using Microsoft Intune - [link](https://learn.microsoft.com/en-us/defender-endpoint/onboarding-endpoint-manager?view=o365-worldwide)
 
-### 3. Microsoft Intune Cookbook
-https://github.com/PacktPublishing/Microsoft-Intune-Cookbook
+2. Enrollment guide: Enroll Windows client devices in Microsoft Intune - [link](https://learn.microsoft.com/en-us/mem/intune/fundamentals/deployment-guide-enrollment-windows)
 
-### 4. Microsoft Intune Config Frameworks
-https://github.com/microsoft/Intune-Config-Frameworks 
+3. Microsoft Intune Cookbook - [link](https://github.com/PacktPublishing/Microsoft-Intune-Cookbook)
 
-### 5. Microsoft Graph - PowerShell Intune samples
-https://github.com/microsoftgraph/powershell-intune-samples 
+4. Microsoft Intune Config Frameworks - link(https://github.com/microsoft/Intune-Config-Frameworks) 
 
-### 6. MD-102: Microsoft 365 Endpoint Administrator
-https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator/tree/master
+5. Microsoft Graph - PowerShell Intune samples - [link](https://github.com/microsoftgraph/powershell-intune-samples) 
 
-### 7. Intune One Data Collector
-https://github.com/markstan/IntuneOneDataCollector#intune-one-data-collector
+6. MD-102: Microsoft 365 Endpoint Administrator - [link](https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator/tree/master)
 
-### 8. SyStandDeploy by Damien Van Robaeys
-https://www.systanddeploy.com/ 
+7. Intune One Data Collector - [link](https://github.com/markstan/IntuneOneDataCollector#intune-one-data-collector)
 
-### 9. Package any app from Winget to Intune
-https://wintuner.app/
+8. SyStandDeploy by Damien Van Robaeys - [link](https://www.systanddeploy.com/) 
 
-### 10. Intune AI Voice Bot
-https://jannikreinhard.com/2023/04/23/intune-ai-voice-bot/ 
+9. Package any app from Winget to Intune - [link](https://wintuner.app/)
 
-### 11. How to Deploy Windows 11 Using Intune Autopilot – Full Guide
-https://liam-robinson.co.uk/how-to-deploy-windows-11-using-intune-autopilot-full-guide/
+10. Intune AI Voice Bot - [link](https://jannikreinhard.com/2023/04/23/intune-ai-voice-bot/) 
 
-### 12. Intune Migration Script
-https://github.com/microsoft/shell-intune-samples/tree/master/macOS/Tools/Migration
+11. How to Deploy Windows 11 Using Intune Autopilot – Full Guide - [link](https://liam-robinson.co.uk/how-to-deploy-windows-11-using-intune-autopilot-full-guide/)
 
-### 13. SyStandDeploy by Damien Van Robaeys
-https://www.systanddeploy.com/ 
+12. Intune Migration Script - [link](https://github.com/microsoft/shell-intune-samples/tree/master/macOS/Tools/Migration)
 
-### 14. Managing Microsoft Defender for Endpoint with the new Security Management feature in MEM/Intune
-https://jeffreyappel.nl/managing-microsoft-defender-for-endpoint-with-the-new-security-management-feature-in-mem/ 
+13. SyStandDeploy by Damien Van Robaeys - [link](https://www.systanddeploy.com/) 
 
-### 15. Not The Hidden Wiki
-https://github.com/notthehiddenwiki/NTHW 
+14. Managing Microsoft Defender for Endpoint with the new Security Management feature in MEM/Intune - [link](https://jeffreyappel.nl/managing-microsoft-defender-for-endpoint-with-the-new-security-management-feature-in-mem/) 
+
+15. Not The Hidden Wiki - [link](https://github.com/notthehiddenwiki/NTHW)
