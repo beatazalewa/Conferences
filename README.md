@@ -4,46 +4,50 @@
 
 
 ### List of public speeaking 2025
-1. **Jailbreaking i Prompt Injection - Hakowanie Sztucznej Inteligencji od kuchni**
+1. **Cyfrowe pułapki - zrozumienie i ochrona dzieci przed zagrożeniami w cyberprzestrzeni**
+
+    Konferencja Psychologia Cyberprzestrzeni 2025, 23.08.2025
+
+2. **Jailbreaking i Prompt Injection - Hakowanie Sztucznej Inteligencji od kuchni**
 
     NTHW x Elementrica, 31.05.2025
-2. 	**Honeypots: workshop**
+3. 	**Honeypots: Workshop**
 
     Not The Hidden Knowledge, 29.04.2025
-3.	**OSINT**
+4.	**OSINT**
 
     ICS2, Akademia Leona Koźmińskiego, 27.04.2025
-4.	**Honeypots: Czy to my gonimy króliczka, czy króliczek goni nas?**
+5.	**Honeypots: Czy to my gonimy króliczka, czy króliczek goni nas?**
 
     ISSA Polska Lublin, 15.04.2025
-5.	**OSINT**
+6.	**OSINT**
 
     ICS2, Akademia Leona Koźmińskiego, 12.04.2025
-6.	**Prima Aprilisowe Rozmowy Kwalifikacyjne**
+7.	**Prima Aprilisowe Rozmowy Kwalifikacyjne**
 
     Not The Hidden Knowledge, 01.04.2025
-7.	**KQL w Threat Huntingu**
+8.	**KQL w Threat Huntingu**
 
     Hackuj Dobroczynnie, 21.03.2025
-8.	**OSINT – czyli co internet wie o Tobie**
+9.	**OSINT – czyli co internet wie o Tobie**
 
     ICS2, 20.03.2025
-9.	**Chmura Azure od podstaw**
+10.	**Chmura Azure od podstaw**
 
     Not The Hidden Wiki, 25.02.2025
-10.	**Microsoft Defenders a NIS2: Praktyczne Zastosowania. Bezpieczeństwo informacji i praktyki w organizacjach**
+11.	**Microsoft Defenders a NIS2: Praktyczne Zastosowania. Bezpieczeństwo informacji i praktyki w organizacjach**
 
     VI Meetup IT Mielec, 13.02.2025
-11.	**Microsoft Intune: Wsparcie dla użytkowników czy przekleństwo? Zalety i wyzwania zarządzania aplikacjami w chmurze**
+12.	**Microsoft Intune: Wsparcie dla użytkowników czy przekleństwo? Zalety i wyzwania zarządzania aplikacjami w chmurze**
 
     Lublin.ms, 12.02.2025
-12.	**Wykorzystanie Kusto Query Language (KQL) w Analizie Danych**
+13.	**Wykorzystanie Kusto Query Language (KQL) w Analizie Danych**
     
     ISSA Polska Lublin, 22.01.2025
-13.	**Dzień Bezpiecznego Internetu. Na co uważać i jak się bronić?**
+14.	**Dzień Bezpiecznego Internetu. Na co uważać i jak się bronić?**
     
     RCEZ Biłgoraj, 16.01.2025
-14.	**Blue Team dla zielonych - od czego zacząć i jak zaplanować naukę**
+15.	**Blue Team dla zielonych - od czego zacząć i jak zaplanować naukę**
     
     Not The Hidden Knowledge 07.01.2025 (online), 07.01.2025
 
