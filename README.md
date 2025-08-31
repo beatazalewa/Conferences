@@ -3,51 +3,64 @@
 ## Click [here](https://zalnet.pl/pl/wystapienia/) to view my calendar.
 
 
-### List of public speeaking 2025
-1. **Cyfrowe pułapki - zrozumienie i ochrona dzieci przed zagrożeniami w cyberprzestrzeni**
+### List of public speaking 2025
 
+- **Cyfrowe pułapki - zrozumienie i ochrona dzieci przed zagrożeniami w cyberprzestrzeni**
+    
     Konferencja Psychologia Cyberprzestrzeni 2025, 23.08.2025
 
-2. **Jailbreaking i Prompt Injection - Hakowanie Sztucznej Inteligencji od kuchni**
+- **Sierpniowe kolonie na chmurze Azure - Introduction to Microsoft security solutions**
+    
+    NTHW, 19.08.2025
+- **Sierpniowe kolonie na chmurze Azure - Creating a simple cloud application**
+    
+    NTHW, 12.08.2025
+- **Sierpniowe kolonie na chmurze Azure - Microsoft Azure services**
+    
+    NTHW, 08.08.2025
+- **Sierpniowe kolonie na chmurze Azure - Podstawy chmury Azure**
+
+    NTHW, 01.08.2025
+- **Jailbreaking i Prompt Injection - Hakowanie Sztucznej Inteligencji od kuchni**
 
     NTHW x Elementrica, 31.05.2025
-3. 	**Honeypots: Workshop**
+- **Honeypots: Workshop**
 
     Not The Hidden Knowledge, 29.04.2025
-4.	**OSINT**
+- **OSINT**
 
     ICS2, Akademia Leona Koźmińskiego, 27.04.2025
-5.	**Honeypots: Czy to my gonimy króliczka, czy króliczek goni nas?**
+- **Honeypots: Czy to my gonimy króliczka, czy króliczek goni nas?**
 
     ISSA Polska Lublin, 15.04.2025
-6.	**OSINT**
+- **OSINT**
 
     ICS2, Akademia Leona Koźmińskiego, 12.04.2025
-7.	**Prima Aprilisowe Rozmowy Kwalifikacyjne**
+- **Prima Aprilisowe Rozmowy Kwalifikacyjne**
 
     Not The Hidden Knowledge, 01.04.2025
-8.	**KQL w Threat Huntingu**
+- **KQL w Threat Huntingu**
 
     Hackuj Dobroczynnie, 21.03.2025
-9.	**OSINT – czyli co internet wie o Tobie**
+- **OSINT – czyli co internet wie o Tobie**
 
     ICS2, 20.03.2025
-10.	**Chmura Azure od podstaw**
+- **Chmura Azure od podstaw**
 
     Not The Hidden Wiki, 25.02.2025
-11.	**Microsoft Defenders a NIS2: Praktyczne Zastosowania. Bezpieczeństwo informacji i praktyki w organizacjach**
+- **Microsoft Defenders a NIS2: Praktyczne Zastosowania. Bezpieczeństwo informacji i praktyki w organizacjach**
 
     VI Meetup IT Mielec, 13.02.2025
-12.	**Microsoft Intune: Wsparcie dla użytkowników czy przekleństwo? Zalety i wyzwania zarządzania aplikacjami w chmurze**
+- **Microsoft Intune: Wsparcie dla użytkowników czy przekleństwo? Zalety i wyzwania zarządzania aplikacjami w chmurze**
 
     Lublin.ms, 12.02.2025
-13.	**Wykorzystanie Kusto Query Language (KQL) w Analizie Danych**
+- **Wykorzystanie Kusto Query Language (KQL) w Analizie Danych**
     
     ISSA Polska Lublin, 22.01.2025
-14.	**Dzień Bezpiecznego Internetu. Na co uważać i jak się bronić?**
+- **Dzień Bezpiecznego Internetu. Na co uważać i jak się bronić?**
     
     RCEZ Biłgoraj, 16.01.2025
-15.	**Blue Team dla zielonych - od czego zacząć i jak zaplanować naukę**
+- **Blue Team dla zielonych - od czego zacząć i jak zaplanować naukę**
     
     Not The Hidden Knowledge 07.01.2025 (online), 07.01.2025
 
